@@ -1,0 +1,7 @@
+{
+  "name": "Global Professional Portrait AI",
+  "description": "Transform casual photos into high-end, LinkedIn-ready professional portraits using Gemini 2.5 Flash Image. Maintain high identity accuracy with sophisticated urban backgrounds and tailored attire.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
